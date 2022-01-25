@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "107ed719dc45a1a2d76273d875f7f226"
+build_time: [1624283438, 224717000]
+inputs:
+  "/Users/macbookpro/Documents/AppTestOngBau/flutter_app_demo/ios/Runner/AppDelegate.swift": !dirty [1624282926, 729698783]
